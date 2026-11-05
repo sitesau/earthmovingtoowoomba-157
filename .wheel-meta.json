@@ -1,0 +1,22 @@
+{
+  "wheel_id": 755,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-157",
+  "project": "earthmoving-contractors-toowoomba-quotes-explained-ad81edb88383",
+  "parent_t1_ref": "earthmovingtoowoomba-013",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving contractors toowoomba quotes explained",
+  "intended_url": "http://earthmoving-contractors-toowoomba-quotes-explained-ad81edb88383.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b07b3343f403b25b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/earthmoving-contractors-toowoomba-earthmovingtoowoomba-013/",
+      "anchor": "Earthmoving Contractors Toowoomba: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
